@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31717.71
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MapEditor", "MapEditor\MapEditor.csproj", "{CE603114-7657-46DE-82CB-450841979AC6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinimalApi", "MinimalApi\MinimalApi.csproj", "{6DA547B6-8460-4272-958E-FB39AC65785B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{CE603114-7657-46DE-82CB-450841979AC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{CE603114-7657-46DE-82CB-450841979AC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{CE603114-7657-46DE-82CB-450841979AC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{CE603114-7657-46DE-82CB-450841979AC6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6DA547B6-8460-4272-958E-FB39AC65785B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DA547B6-8460-4272-958E-FB39AC65785B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DA547B6-8460-4272-958E-FB39AC65785B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DA547B6-8460-4272-958E-FB39AC65785B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {E50F3672-EECC-4391-B481-EE3F33915A1E}
+		SolutionGuid = {E2581318-3CD0-421C-8147-7E956BC7EA95}
 	EndGlobalSection
 EndGlobal
